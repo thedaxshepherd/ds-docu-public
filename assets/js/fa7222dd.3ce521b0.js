@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[6078],{7779:s=>{s.exports=JSON.parse('{"label":"Power BI","permalink":"/ds-docu/tags/power-bi","allTagsPath":"/ds-docu/tags","count":1}')}}]);

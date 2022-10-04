@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[5170],{8113:s=>{s.exports=JSON.parse('{"label":"git","permalink":"/ds-docu-public/tags/git","allTagsPath":"/ds-docu-public/tags","count":2}')}}]);

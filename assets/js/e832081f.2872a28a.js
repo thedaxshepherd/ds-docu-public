@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[2383],{7388:a=>{a.exports=JSON.parse('{"label":"dax","permalink":"/ds-docu-public/tags/dax","allTagsPath":"/ds-docu-public/tags","count":2}')}}]);
