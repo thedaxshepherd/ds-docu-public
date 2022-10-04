@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[7283],{7331:s=>{s.exports=JSON.parse('{"label":"daxstudio","permalink":"/ds-docu/tags/daxstudio","allTagsPath":"/ds-docu/tags","count":1}')}}]);
